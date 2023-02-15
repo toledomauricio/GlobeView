@@ -8,7 +8,7 @@ GlobeView is a mobile app that allows you to view your websites right from your 
 3. Run the app on your emulator or device.
 
 # 📝 Usage
-Once you launch the app, you will see a web view that you can use to browse the site specified in `MainActivity.kt:26`. You can enter a URL into the `webView.loadUrl` call to visit your desired site.
+Once you launch the app, you will see a web view that you can use to browse the site specified in [`MainActivity.kt:26`](https://github.com/toledomauricio/GlobeView/blob/main/app/src/main/java/com/globeview/MainActivity.kt#L26). You can enter a URL into the `webView.loadUrl` call to visit your desired site.
 
 # 🛠️ Technologies Used
 - Kotlin
